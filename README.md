@@ -1,36 +1,68 @@
 # Marketer's Fridge
 
-Practical marketing content, neatly organized.
+마케터를 위한 콘텐츠 냉장고.
 
-Marketer's Fridge is a product suite that helps marketers discover, manage, and analyze content efficiently. This organization hosts the client, admin, and server codebases that power the service.
+마케터스 프리지는 마케팅 콘텐츠를 발견·정리·분석할 수 있도록 돕는 서비스입니다. 이 조직에는 사용자 서비스, 관리자 페이지, 백엔드가 포함되어 있습니다.
 
-## Core Repositories
+## 주요 레포지토리
 
-- [Client (marketers-fridge)](https://github.com/Marketer-s-Fridge/Client)
-- [Admin (mf-admin)](https://github.com/Marketer-s-Fridge/Admin)
-- [Server (Server-main)](https://github.com/Marketer-s-Fridge/Server-main)
+- [클라이언트 (marketers-fridge)](https://github.com/Marketer-s-Fridge/Client)
+- [관리자 (mf-admin)](https://github.com/Marketer-s-Fridge/Admin)
+- [서버 (Server)](https://github.com/Marketer-s-Fridge/Server)
 
-## What We Focus On
+## 우리가 집중하는 것
 
-- Fast content discovery and curation
-- Clean editorial workflows for admins
-- Reliable data and analytics for decisions
+- 빠르고 직관적인 콘텐츠 탐색
+- 관리자 운영 흐름의 효율화
+- 신뢰도 높은 데이터와 인사이트 제공
 
-## Tech Stack
+## 기술 스택
 
-- Client: Next.js, React, TypeScript
-- Admin: Next.js, React, TypeScript
-- Server: Spring Boot, Java
-- Storage: MySQL
+클라이언트 (marketers-fridge)
 
-## Getting Started
+- Next.js 15, React 19, TypeScript
+- TanStack React Query
+- Tailwind CSS v4
+- Axios
+- Chart.js / react-chartjs-2
+- Framer Motion
+- Swiper / Keen Slider
+- Lucide / React Icons
 
-Each repo contains setup instructions in its own README. Start with the client if you want to explore the user experience, or the admin app if you are working on content operations.
+관리자 (mf-admin)
 
-## Contributing
+- Next.js 15, React 19, TypeScript
+- TanStack React Query
+- Tailwind CSS v4
+- Axios
+- React Calendar
 
-Issues and pull requests are welcome. If you plan a larger change, please open an issue first so we can align on direction.
+서버 (Server)
 
-## Contact
+- Spring Boot 3.4.5, Java 17
+- Spring Security
+- JPA + MyBatis
+- MySQL
+- JWT
+- AWS S3 SDK
+- Java Mail
+- Kakao OAuth
 
-For partnership or support requests, open an issue in the relevant repository.
+## 인프라/배포
+
+- Docker
+- Jenkins
+- Nginx
+- AWS EC2
+
+## 시작하기
+
+각 레포지토리의 README에 실행 방법과 환경 설정이 정리되어 있습니다. 사용자 경험을 보려면 클라이언트부터, 운영 기능을 보려면 관리자 앱부터 확인해주세요.
+
+## 컨트리뷰션
+
+이슈와 PR은 언제든 환영합니다. 큰 변경은 이슈로 방향을 먼저 맞춰주세요.
+
+## 문의
+
+협업이나 지원 요청은 해당 레포지토리에 이슈로 남겨주세요.
