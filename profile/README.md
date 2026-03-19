@@ -1,4 +1,4 @@
-# 마케터스 프리지
+# Marketer's Fridge
 
 마케터를 위한 콘텐츠 냉장고.
 
@@ -18,9 +18,9 @@
 
 ## 기술 스택
 
-- 클라이언트: Next.js, React, TypeScript
-- 관리자: Next.js, React, TypeScript
-- 서버: Spring Boot, Java
+- Client: Next.js, React, TypeScript
+- Admin: Next.js, React, TypeScript
+- Server: Spring Boot, Java
 - DB: MySQL
 
 ## 시작하기
