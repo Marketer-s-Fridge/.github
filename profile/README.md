@@ -6,9 +6,9 @@
 
 ## 주요 레포지토리
 
-- 클라이언트 (marketers-fridge)
-- 관리자 (mf-admin)
-- 서버 (Server)
+- [클라이언트 (marketers-fridge)](https://github.com/Marketer-s-Fridge/Client)
+- [관리자 (mf-admin)](https://github.com/Marketer-s-Fridge/Admin)
+- [서버 (Server)](https://github.com/Marketer-s-Fridge/Server)
 
 ## 우리가 집중하는 것
 
