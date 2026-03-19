@@ -48,6 +48,13 @@
 - Java Mail
 - Kakao OAuth
 
+## 인프라/배포
+
+- Docker
+- Jenkins
+- Nginx
+- AWS EC2
+
 ## 시작하기
 
 각 레포지토리의 README에 실행 방법과 환경 설정이 정리되어 있습니다. 사용자 경험을 보려면 클라이언트부터, 운영 기능을 보려면 관리자 앱부터 확인해주세요.
