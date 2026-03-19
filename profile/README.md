@@ -6,9 +6,9 @@
 
 ## 주요 레포지토리
 
-- [클라이언트 (marketers-fridge)](https://github.com/Marketer-s-Fridge/Client)
-- [관리자 (mf-admin)](https://github.com/Marketer-s-Fridge/Admin)
-- [서버 (Server-main)](https://github.com/Marketer-s-Fridge/Server-main)
+- 클라이언트 (marketers-fridge)
+- 관리자 (mf-admin)
+- 서버 (Server)
 
 ## 우리가 집중하는 것
 
@@ -18,10 +18,35 @@
 
 ## 기술 스택
 
-- Client: Next.js, React, TypeScript
-- Admin: Next.js, React, TypeScript
-- Server: Spring Boot, Java
-- DB: MySQL
+클라이언트 (marketers-fridge)
+
+- Next.js 15, React 19, TypeScript
+- TanStack React Query
+- Tailwind CSS v4
+- Axios
+- Chart.js / react-chartjs-2
+- Framer Motion
+- Swiper / Keen Slider
+- Lucide / React Icons
+
+관리자 (mf-admin)
+
+- Next.js 15, React 19, TypeScript
+- TanStack React Query
+- Tailwind CSS v4
+- Axios
+- React Calendar
+
+서버 (Server)
+
+- Spring Boot 3.4.5, Java 17
+- Spring Security
+- JPA + MyBatis
+- MySQL
+- JWT
+- AWS S3 SDK
+- Java Mail
+- Kakao OAuth
 
 ## 시작하기
 
